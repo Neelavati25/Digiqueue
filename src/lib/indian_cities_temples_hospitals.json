@@ -1,0 +1,774 @@
+[
+    {
+        "city": "Agra",
+        "state": "Uttar Pradesh",
+        "temples": [
+            "Shri Krishna Janmabhoomi Temple (Shree Krishna Balaram Mandir)",
+      "Mankameshwar Temple",
+      "Ram Bagh Mandir"
+        ],
+        "hospitals": [
+            "Sarvodaya Hospital",
+      "Agra Public Hospital",
+      "S.N. Medical College & Hospital"
+        ]
+    },
+    {
+        "city": "Ahmedabad",
+        "state": "Gujarat",
+        "temples": [
+            "Akshardham Temple",
+            "Swaminarayan Temple (Kalupur)",
+            "Jama Masjid"
+        ],
+        "hospitals": [
+            "Apollo Hospitals",
+            "CIMS Hospital",
+            "Sardar Vallabhbhai Patel Hospital"
+        ]
+    },
+    {
+        "city": "Allahabad",
+        "state": "Uttar Pradesh",
+        "temples": [
+            "Triveni Sangam Temple",
+            "Anand Bhavan",
+            "Hanuman Mandir"
+        ],
+        "hospitals": [
+            "Swaroop Rani Nehru Hospital",
+            "Railway Hospital Prayagraj",
+            "Nehru Mukherjee Cancer Hospital"
+        ]
+    },
+    {
+        "city": "Amritsar",
+        "state": "Punjab",
+        "temples": [
+            "Harmandir Sahib (Golden Temple)",
+            "Durgiana Temple",
+            "Mata Lal Devi Temple"
+        ],
+        "hospitals": [
+            "Hindu Rao Hospital & Research Centre",
+            "Amandeep Hospital",
+            "Guru Nanak Dev Hospital"
+        ]
+    },
+    {
+        "city": "Asansol",
+        "state": "West Bengal",
+        "temples": [
+            "Bhatinda Chandi Mandir",
+            "Kalipahari Temple",
+            "Anandamayee Ashram Temple"
+        ],
+        "hospitals": [
+            "Panth Hospital",
+            "Apollo Hospitals (Asansol)",
+            "Asansol District Hospital"
+        ]
+    },
+    {
+        "city": "Aurangabad",
+        "state": "Maharashtra",
+        "temples": [
+            "Aurangabad Caves Shiva Temple",
+            "Grishneshwar Jyotirlinga Temple",
+            "Mata Gauri Temple"
+        ],
+        "hospitals": [
+            "Deccan Hospital & Research Centre",
+            "Cecil Clinic & Multispeciality Hospital",
+            "Government Medical College & Hospital"
+        ]
+    },
+    {
+        "city": "Bengaluru",
+        "state": "Karnataka",
+        "temples": [
+            "ISKCON Temple",
+            "Bull Temple (Dodda Basavana Gudi)",
+            "Banashankari Temple"
+        ],
+        "hospitals": [
+            "Manipal Hospital",
+            "NIMHANS",
+            "Apollo Hospitals, Jayanagar"
+        ]
+    },
+     {
+        "city": "Bhopal",
+        "state": "Madhya Pradesh",
+        "temples": [
+            "Birla Mandir",
+            "Manua Bhan Ki Tekri",
+            "Laxmi Narayan Temple"
+        ],
+        "hospitals": [
+            "AIIMS Bhopal",
+            "Narmada Hospital",
+            "Bansal Hospital"
+        ]
+    },
+    {
+        "city": "Bhubaneswar",
+        "state": "Odisha",
+        "temples": [
+            "Lingaraj Temple",
+            "Mukteswara Temple",
+            "Rajarani Temple"
+        ],
+        "hospitals": [
+            "SUM Hospital",
+            "KIMS Hospital",
+            "Apollo Hospital Bhubaneswar"
+        ]
+    },
+    {
+        "city": "Chandigarh",
+        "state": "Chandigarh",
+        "temples": [
+            "ISKCON Temple Chandigarh",
+            "Mansa Devi Temple",
+            "Chandigarh Kali Bari"
+        ],
+        "hospitals": [
+            "PGIMER",
+            "Fortis Hospital",
+            "Max Super Speciality Hospital"
+        ]
+    },
+    {
+        "city": "Chennai",
+        "state": "Tamil Nadu",
+        "temples": [
+            "Kapaleeshwarar Temple",
+            "Parthasarathy Temple",
+            "Marundeeswarar Temple"
+        ],
+        "hospitals": [
+            "Apollo Hospitals Chennai",
+            "MIOT International",
+            "Fortis Malar Hospital"
+        ]
+    },
+    {
+        "city": "Coimbatore",
+        "state": "Tamil Nadu",
+        "temples": [
+            "Marudhamalai Temple",
+            "Eachanari Vinayagar Temple",
+            "Perur Pateeswarar Temple"
+        ],
+        "hospitals": [
+            "K.G. Hospital",
+            "PSG Hospitals",
+            "Ganga Hospital"
+        ]
+    },
+    {
+        "city": "Cuttack",
+        "state": "Odisha",
+        "temples": [
+            "Cuttack Chandi Temple",
+            "Gadagadeswar Temple",
+            "Qadam Rasul Mosque"
+        ],
+        "hospitals": [
+            "SCB Medical College and Hospital",
+            "Sun Hospital",
+            "Ashwini Hospital"
+        ]
+    },
+    {
+        "city": "Dehradun",
+        "state": "Uttarakhand",
+        "temples": [
+            "Tapkeshwar Temple",
+            "Sai Darbar Temple",
+            "Daat Kali Mandir"
+        ],
+        "hospitals": [
+            "Max Super Speciality Hospital",
+            "Synergy Institute of Medical Sciences",
+            "Doon Hospital"
+        ]
+    },
+    {
+        "city": "Delhi",
+        "state": "Delhi",
+        "temples": [
+            "Akshardham Temple",
+            "Lotus Temple",
+            "ISKCON Temple Delhi"
+        ],
+        "hospitals": [
+            "AIIMS Delhi",
+            "Sir Ganga Ram Hospital",
+            "Fortis Escorts Heart Institute"
+        ]
+    },
+    {
+        "city": "Dhanbad",
+        "state": "Jharkhand",
+        "temples": [
+            "Shakti Mandir",
+            "Hari Mandir",
+            "Lord Shiva Temple (Bank More)"
+        ],
+        "hospitals": [
+            "Central Hospital Dhanbad",
+            "Asian Dwarkadas Jalan Super Speciality Hospital",
+            "PMCH Dhanbad"
+        ]
+    },
+    {
+        "city": "Faridabad",
+        "state": "Haryana",
+        "temples": [
+            "ISKCON Faridabad",
+            "Sidhdata Ashram",
+            "Hanuman Mandir"
+        ],
+        "hospitals": [
+            "Fortis Escorts Hospital",
+            "Sarvodaya Hospital",
+            "QRG Health City"
+        ]
+    },
+    {
+        "city": "Gwalior",
+        "state": "Madhya Pradesh",
+        "temples": [
+            "Sas Bahu Temple",
+            "Sun Temple Gwalior",
+            "Teli Ka Mandir"
+        ],
+        "hospitals": [
+            "J.A. Hospital",
+            "Birla Institute of Medical Research",
+            "Agrawal Hospital & Research Institute"
+        ]
+    },
+     {
+        "name": "Guwahati",
+        "state": "Assam",
+        "temples": [
+            "Kamakhya Temple",
+            "Umananda Temple",
+            "Navagraha Temple"
+        ],
+        "hospitals": [
+            "Apollo Hospitals Guwahati",
+            "GNRC Hospitals",
+            "Hayat Hospital"
+        ]
+    },
+    {
+        "name": "Howrah",
+        "state": "West Bengal",
+        "temples": [
+            "Belur Math",
+            "Ramrajatala Ram Temple",
+            "Shree Shyam Mandir Ghusuri"
+        ],
+        "hospitals": [
+            "Howrah District Hospital",
+            "Sanjiban Hospital",
+            "Narayana Superspeciality Hospital"
+        ]
+    },
+    {
+        "name": "Hyderabad",
+        "state": "Telangana",
+        "temples": [
+            "Birla Mandir",
+            "Chilkur Balaji Temple",
+            "ISKCON Hyderabad"
+        ],
+        "hospitals": [
+            "Apollo Hospitals Jubilee Hills",
+            "Yashoda Hospitals",
+            "AIG Hospitals"
+        ]
+    },
+    {
+        "name": "Indore",
+        "state": "Madhya Pradesh",
+        "temples": [
+            "Khajrana Ganesh Temple",
+            "Annapurna Temple",
+            "Bada Ganapati Temple"
+        ],
+        "hospitals": [
+            "Apollo Hospitals Indore",
+            "Shalby Hospital",
+            "Choithram Hospital & Research Centre"
+        ]
+    },
+     {
+        "name": "Jabalpur",
+        "state": "Madhya Pradesh",
+        "temples": [
+            "Chausath Yogini Temple",
+            "Tripura Sundari Temple",
+            "Kachnar City Shiva Temple"
+        ],
+        "hospitals": [
+            "Apollo Jabalpur Hospital",
+            "Shalby Hospital",
+            "Jabalpur Hospital & Research Centre"
+        ]
+    },
+    {
+        "name": "Jaipur",
+        "state": "Rajasthan",
+        "temples": [
+            "Moti Dungri Ganesh Temple",
+            "Govind Dev Ji Temple",
+            "Galtaji Temple"
+        ],
+        "hospitals": [
+            "SMS Hospital",
+            "Fortis Escorts Hospital",
+            "CK Birla Hospital"
+        ]
+    },
+    {
+        "name": "Jodhpur",
+        "state": "Rajasthan",
+        "temples": [
+            "Chamunda Mata Temple",
+            "Maha Mandir",
+            "Raj Ranchhodji Temple"
+        ],
+        "hospitals": [
+            "Medipulse Hospital",
+            "Vasundhara Hospital",
+            "Goyal Hospital"
+        ]
+    },
+    {
+        "name": "Kanpur",
+        "state": "Uttar Pradesh",
+        "temples": [
+            "JK Temple",
+            "Panki Hanuman Temple",
+            "Anandeshwar Temple"
+        ],
+        "hospitals": [
+            "Regency Hospital",
+            "Krishna Super Speciality Hospital",
+            "Apollo Spectra Hospital"
+        ]
+    },
+    {
+        "name": "Kochi",
+        "state": "Kerala",
+        "temples": [
+            "Ernakulam Shiva Temple",
+            "Chottanikkara Bhagavathy Temple",
+            "Thrikkakara Vamana Moorthy Temple"
+        ],
+        "hospitals": [
+            "Aster Medcity",
+            "Amrita Institute of Medical Sciences",
+            "Lakeshore Hospital"
+        ]
+    },
+    {
+        "name": "Kolkata",
+        "state": "West Bengal",
+        "temples": [
+            "Kalighat Kali Temple",
+            "Dakshineswar Kali Temple",
+            "Birla Mandir"
+        ],
+        "hospitals": [
+            "Apollo Gleneagles Hospitals",
+            "Fortis Hospital Anandapur",
+            "AMRI Hospitals"
+        ]
+    },
+     {
+        "name": "Kota",
+        "state": "Rajasthan",
+        "temples": [
+            "Garadia Mahadev Temple",
+            "Kansua Shiva Temple",
+            "Godavari Dham Temple"
+        ],
+        "hospitals": [
+            "MBS Hospital",
+            "Sudha Hospital",
+            "Shivam Hospital"
+        ]
+    },
+    {
+        "name": "Lucknow",
+        "state": "Uttar Pradesh",
+        "temples": [
+            "Chandrika Devi Temple",
+            "Mankameshwar Temple",
+            "Aliganj Hanuman Temple"
+        ],
+        "hospitals": [
+            "Sanjay Gandhi PGI",
+            "ApolloMedics Super Speciality Hospital",
+            "King George\u2019s Medical University (KGMU)"
+        ]
+    },
+    {
+        "name": "Ludhiana",
+        "state": "Punjab",
+        "temples": [
+            "Sheetla Mata Mandir",
+            "ISKCON Temple Ludhiana",
+            "Prachin Shiv Mandir"
+        ],
+        "hospitals": [
+            "Dayanand Medical College & Hospital (DMCH)",
+            "CMC Hospital",
+            "Fortis Hospital Ludhiana"
+        ]
+    },
+    {
+        "name": "Madurai",
+        "state": "Tamil Nadu",
+        "temples": [
+            "Meenakshi Amman Temple",
+            "Koodal Azhagar Temple",
+            "Pazhamudhir Solai"
+        ],
+        "hospitals": [
+            "Apollo Speciality Hospitals Madurai",
+            "Velammal Medical College Hospital",
+            "Vadamalayan Hospitals"
+        ]
+    },
+    {
+        "name": "Meerut",
+        "state": "Uttar Pradesh",
+        "temples": [
+            "Augarnath Temple",
+            "Mansa Devi Temple",
+            "Shiv Mandir at Gandhibagh"
+        ],
+        "hospitals": [
+            "Anand Hospital",
+            "Metro Hospital & Heart Institute",
+            "Jain Hospital"
+        ]
+    },
+    {
+        "name": "Mumbai",
+        "state": "Maharashtra",
+        "temples": [
+            "Siddhivinayak Temple",
+            "Mumbadevi Temple",
+            "Mahalakshmi Temple"
+        ],
+        "hospitals": [
+            "Lilavati Hospital",
+            "Jaslok Hospital",
+            "Kokilaben Dhirubhai Ambani Hospital"
+        ]
+    },
+    {
+        "name": "Nagpur",
+        "state": "Maharashtra",
+        "temples": [
+            "Tekdi Ganesh Temple",
+            "Shree Poddareshwar Ram Mandir",
+            "Maha Ganapati Temple"
+        ],
+        "hospitals": [
+            "Orange City Hospital",
+            "Wockhardt Hospital",
+            "Care Hospitals Nagpur"
+        ]
+    },
+    {
+        "name": "Nashik",
+        "state": "Maharashtra",
+        "temples": [
+            "Trimbakeshwar Temple",
+            "Kalaram Temple",
+            "Sundarnarayan Temple"
+        ],
+        "hospitals": [
+            "Wockhardt Hospital",
+            "Sahyadri Hospital",
+            "Apollo Hospital Nashik"
+        ]
+    },
+    {
+        "name": "Navi Mumbai",
+        "state": "Maharashtra",
+        "temples": [
+            "ISKCON Temple",
+            "Nerul Balaji Temple",
+            "Amritanandamayi Math"
+        ],
+        "hospitals": [
+            "Apollo Hospital",
+            "MGM Hospital",
+            "Terna Hospital"
+        ]
+    },
+    {
+        "name": "New Delhi",
+        "state": "Delhi",
+        "temples": [
+            "Akshardham Temple",
+            "Birla Mandir",
+            "Kalkaji Mandir"
+        ],
+        "hospitals": [
+            "AIIMS",
+            "Sir Ganga Ram Hospital",
+            "Fortis Escorts"
+        ]
+    },
+    {
+        "name": "Patna",
+        "state": "Bihar",
+        "temples": [
+            "Mahavir Mandir",
+            "Padri Ki Haveli",
+            "Patan Devi Temple"
+        ],
+        "hospitals": [
+            "Paras HMRI Hospital",
+            "AIIMS Patna",
+            "Ruban Memorial Hospital"
+        ]
+    },
+    {
+        "name": "Pune",
+        "state": "Maharashtra",
+        "temples": [
+            "Dagdusheth Halwai Ganapati Temple",
+            "Parvati Temple",
+            "Chaturshringi Temple"
+        ],
+        "hospitals": [
+            "Ruby Hall Clinic",
+            "Jehangir Hospital",
+            "Sahyadri Hospital"
+        ]
+    },
+    {
+        "name": "Raipur",
+        "state": "Chhattisgarh",
+        "temples": [
+            "Mahadev Ghat Temple",
+            "Dudhadhari Math",
+            "Banjari Mata Temple"
+        ],
+        "hospitals": [
+            "Balaji Hospital",
+            "Ramkrishna Care Hospital",
+            "AIIMS Raipur"
+        ]
+    },
+    {
+        "name": "Rajkot",
+        "state": "Gujarat",
+        "temples": [
+            "ISKCON Rajkot",
+            "Swaminarayan Mandir",
+            "Panchnath Mahadev Temple"
+        ],
+        "hospitals": [
+            "Wockhardt Hospital",
+            "Sterling Hospital",
+            "Noble Hospital"
+        ]
+    },
+    {
+        "name": "Ranchi",
+        "state": "Jharkhand",
+        "temples": [
+            "Pahari Mandir",
+            "Durga Bati Mandir",
+            "Jagannath Temple"
+        ],
+        "hospitals": [
+            "Raj Hospital",
+            "RIMS",
+            "Medanta Hospital Ranchi"
+        ]
+    },
+    {
+        "name": "Rourkela",
+        "state": "Odisha",
+        "temples": [
+            "Hanuman Vatika",
+            "Vaishno Devi Temple",
+            "ISKCON Temple"
+        ],
+        "hospitals": [
+            "IGH Rourkela",
+            "Hi-Tech Medical College & Hospital",
+            "JP Hospital"
+        ]
+    },
+    {
+        "name": "Rajahmundry",
+        "state": "Andhra Pradesh",
+        "temples": [
+            "Kotilingeswara Temple",
+            "Markandeya Temple",
+            "ISCON Temple"
+        ],
+        "hospitals": [
+            "Apollo Hospital",
+            "Government General Hospital",
+            "Vijaya Super Speciality Hospital"
+        ]
+    },
+    {
+        "name": "Srinagar",
+        "state": "Jammu and Kashmir",
+        "temples": [
+            "Shankaracharya Temple",
+            "Kheer Bhawani Temple",
+            "Sharika Devi Temple"
+        ],
+        "hospitals": [
+            "SKIMS",
+            "SMHS Hospital",
+            "Acharya Shri Chander College of Medical Sciences"
+        ]
+    },
+    {
+        "name": "Solapur",
+        "state": "Maharashtra",
+        "temples": [
+            "Siddheshwar Temple",
+            "Rupabhavani Temple",
+            "Revansiddh Temple"
+        ],
+        "hospitals": [
+            "Ashwini Hospital",
+            "Niramay Hospital",
+            "Dr. Vaishampayan Memorial Hospital"
+        ]
+    },
+    {
+        "name": "Surat",
+        "state": "Gujarat",
+        "temples": [
+            "Ambika Niketan Temple",
+            "Chintamani Jain Temple",
+            "ISKCON Surat"
+        ],
+        "hospitals": [
+            "Apple Hospital",
+            "Kiran Hospital",
+            "Sunshine Global Hospital"
+        ]
+    },
+     {
+        "name": "Thiruvananthapuram",
+        "state": "Kerala",
+        "temples": [
+            "Sree Padmanabhaswamy Temple",
+            "Attukal Bhagavathy Temple",
+            "Pazhavangadi Ganapathy Temple"
+        ],
+        "hospitals": [
+            "KIMSHEALTH",
+            "SUT Hospital",
+            "Ananthapuri Hospitals and Research Institute"
+        ]
+    },
+    {
+        "name": "Tiruchirappalli",
+        "state": "Tamil Nadu",
+        "temples": [
+            "Sri Ranganathaswamy Temple",
+            "Jambukeswarar Temple",
+            "Ucchi Pillayar Temple"
+        ],
+        "hospitals": [
+            "Apollo Speciality Hospital",
+            "Kauvery Hospital",
+            "Chennai Medical Centre"
+        ]
+    },
+    {
+        "name": "Trivandrum",
+        "state": "Kerala",
+        "temples": [
+            "Sree Padmanabhaswamy Temple",
+            "Pazhavangadi Ganapathy Temple",
+            "Attukal Bhagavathy Temple"
+        ],
+        "hospitals": [
+            "KIMSHEALTH",
+            "SUT Hospital",
+            "Cosmopolitan Hospital"
+        ]
+    },
+    {
+        "name": "Vadodara",
+        "state": "Gujarat",
+        "temples": [
+            "EME Temple",
+            "Kirti Mandir",
+            "Sur Sagar Hanuman Temple"
+        ],
+        "hospitals": [
+            "Sterling Hospital",
+            "Sunshine Global Hospital",
+            "Tricolor Hospital"
+        ]
+    },
+    {
+        "name": "Varanasi",
+        "state": "Uttar Pradesh",
+        "temples": [
+            "Kashi Vishwanath Temple",
+            "Sankat Mochan Hanuman Temple",
+            "Durga Kund Mandir"
+        ],
+        "hospitals": [
+            "Heritage Hospital",
+            "Galaxy Hospital",
+            "Banaras Hindu University Hospital"
+        ]
+    },
+    {
+        "name": "Vijayawada",
+        "state": "Andhra Pradesh",
+        "temples": [
+            "Kanaka Durga Temple",
+            "Subramanya Swamy Temple",
+            "Sri Nagarala Sri Maha Lakshmi Ammavaru Temple"
+        ],
+        "hospitals": [
+            "Ramesh Hospitals",
+            "Andhra Hospitals",
+            "Manipal Hospitals"
+        ]
+    },
+    {
+        "name": "Visakhapatnam",
+        "state": "Andhra Pradesh",
+        "temples": [
+            "Simhachalam Temple",
+            "Sri Kanaka Mahalakshmi Temple",
+            "ISKCON Temple Visakhapatnam"
+        ],
+        "hospitals": [
+            "Apollo Hospital",
+            "SevenHills Hospital",
+            "CARE Hospitals Visakhapatnam"
+        ]
+    }
+]
+
+    
